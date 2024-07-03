@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Lisa",
+        "password": "CTlMonzUiM",
+        "pin": "1234",
+        "address": "1234",
+        "email": "Lisa@gmail.com",
+        "contact": "0661157049"
+    },
+    {
+        "name": "lisa",
+        "password": "RGn16cVGJy",
+        "pin": "1234",
+        "address": "1234",
+        "email": "lisa@gmail.com",
+        "contact": "0661157049"
+    },
+    {
+        "name": "aneeqah hendricks",
+        "password": "XO1i1wsxBu",
+        "pin": "1234",
+        "address": "cape town",
+        "email": "ah@gmail.com",
+        "contact": "0604811286"
+    },
+    {
+        "name": "Sans Sizani",
+        "password": "SEtFr6RwDk",
+        "pin": "1990",
+        "address": "gogo street",
+        "email": "sa@gmail.com",
+        "contact": "0833516491"
+    }
+]
